@@ -26,7 +26,7 @@ I enjoy designing reliable backend architectures, solving algorithmic problems, 
 ---
 
 # 💻 Tech Stack
-
+<div align="center">
 <table>
 <tr>
 <td width="25%" valign="top">
@@ -135,6 +135,7 @@ I enjoy designing reliable backend architectures, solving algorithmic problems, 
 
 </tr>
 </table>
+</div>
 
 # 📊 GitHub Stats
 
