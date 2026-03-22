@@ -145,8 +145,11 @@ I enjoy designing reliable backend architectures, solving algorithmic problems, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsharma-aks&layout=compact&theme=transparent&hide_border=false" height="170"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=akshatsharma-aks&theme=transparent&hide_border=false"/>
+</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akshatsharma-aks&theme=transparent&hide_border=false"/>
 </p>
 
 ---
