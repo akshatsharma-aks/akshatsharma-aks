@@ -22,10 +22,11 @@ I enjoy designing reliable backend architectures, solving algorithmic problems, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-sharma-1-aks)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatsharma1aks@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/akshatsharma1_aks/)
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <div align="center">
 <table>
 <tr>
@@ -137,7 +138,7 @@ I enjoy designing reliable backend architectures, solving algorithmic problems, 
 </table>
 </div>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshatsharma-aks&show_icons=true&theme=transparent&hide_border=false" height="170"/>
@@ -150,7 +151,7 @@ I enjoy designing reliable backend architectures, solving algorithmic problems, 
 
 ---
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
